@@ -1,6 +1,6 @@
 # Ceramic-Identifier
 
-CeramicIdentifier.exe
+CeramicIdentifier  Version 0.9.0
 By Brandon Kindrick 2017
 
 //// Program Description ////
@@ -17,9 +17,6 @@ WinRAR: www.rarlab.com/download.htm
 7Zip: www.7-zip.org/download.html
 
 After being extracted, the "Ceramic Identifier.exe" icon can be double clicked to be run.
-
-
-Version 0.9.0
 
 //// Known Issues/ Bugs ////
 
