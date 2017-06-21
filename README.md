@@ -1,6 +1,6 @@
 # Ceramic-Identifier
 
-CeramicIdentifier  Version 0.9.0
+CeramicIdentifier  Version 0.9.2
 
 By Brandon Kindrick 2017
 
@@ -26,21 +26,4 @@ should/ or should not exist, please contact Brandon Kindrick at bk423@nau.edu.
 
 If you are not getting output, try reselecting the items in each category. Sometimes an item will appear but not actually be selected
 
-// Combinations with issues //
 
-Ash/Red/Vase/Decorated 
-- Should not exist
-- None should not be an option
-
-Ash/Other/Vase/Poly Chromatic 
-- None should not be an option
-
-Carbonate/Orange/Jar/Decorated 
-- None should not be an option
-
-Carbonate/Brown/Vase/Decorated 
-- None should not be an option
-
-Carbonate/Other/Vase/Poly Chromatic 
-- Needs Output
-- None should not be an option
